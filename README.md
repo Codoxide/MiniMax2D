@@ -17,7 +17,7 @@ Tic Tac Toe and Connect 4 against an AI that uses the minimax algorithm. Turn th
 
 | Tic Tac Toe | Connect 4 |
 |:---:|:---:|
-| ![Tic Tac Toe](screenshots/tictactoe.png) | ![Connect 4](screenshots/connect4.png) |
+| ![Tic Tac Toe](Assets/Screenshots/Screenshot-2026-11-04-at-3.05.28 AM.png) | ![Connect 4](Assets/Screenshots/Screenshot 2026-11-04 at 3.05.54 AM.png) |
 
 ## Features
 
